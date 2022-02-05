@@ -1,4 +1,4 @@
-			object oriented programming
+		object oriented programming projects
 ------------------------------------------------------------------------------
 
 this repository contains projects that I made written in C++.
