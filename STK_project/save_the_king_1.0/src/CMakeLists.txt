@@ -1,0 +1,10 @@
+﻿target_sources (save_the_king_1.0 PRIVATE "main.cpp"
+                                 	  "io.cpp"
+                                 	  "Board.cpp"
+                                 	  "Coord.cpp"
+                                	  "Controller.cpp"
+                                  	  "King.cpp"
+                                  	  "Mage.cpp"
+                               		  "Warrior.cpp"
+                                  	  "Thief.cpp"
+                                  	  "Portal.cpp")

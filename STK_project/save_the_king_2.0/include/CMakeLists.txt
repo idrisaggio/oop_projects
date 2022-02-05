@@ -1,0 +1,1 @@
+﻿target_include_directories (save_the_king_2.0 PRIVATE ${CMAKE_CURRENT_LIST_DIR})
