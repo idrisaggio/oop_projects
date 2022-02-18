@@ -2,7 +2,7 @@
 
 project guide (Save The King 1.0)
 ==============================================================================
-Authers: Raed Barhoum, Anton Nahhas
+Authors: Raed Barhoum, Anton Nahhas
 
 ..................................
 
