@@ -2,7 +2,7 @@
 
 Project guide (operators for polynomials and rationals)
 ==============================================================================
-Written by: Raed Barhoum
+Authers: Raed Barhoum, Anton Nahhas
 
 ..................................
 
