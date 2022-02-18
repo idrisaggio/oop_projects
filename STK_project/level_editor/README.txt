@@ -2,7 +2,7 @@
 
 Project guide (Level Editor)
 ==============================================================================
-Authers: Raed Barhoum, Anton Nahhas
+Authors: Raed Barhoum, Anton Nahhas
 
 ..................................
 
