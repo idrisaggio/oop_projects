@@ -2,7 +2,7 @@
 
 Project guide (Save The King 2.0)
 ==============================================================================
-Written by: Raed Barhoum
+Authers: Raed Barhoum, Anton Nahhas
 
 ..................................
 
