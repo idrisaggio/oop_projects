@@ -1,6 +1,6 @@
 16/01/2022
 
-Project guide (Save The King 2.0)
+Final project guide (Save The King 2.0)
 ==============================================================================
 Authers: Raed Barhoum, Anton Nahhas
 
