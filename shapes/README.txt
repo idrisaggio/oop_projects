@@ -2,7 +2,7 @@
 
 Project guide (shapes)
 ==============================================================================
-Written by: Raed Barhoum
+Authers: Raed Barhoum, Anton Nahhas
 
 ..................................
 
