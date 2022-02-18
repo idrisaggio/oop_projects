@@ -1,6 +1,6 @@
 11/11/2021
 
-project guide (Save The King 1.0)
+Project guide (Save The King 1.0)
 ==============================================================================
 Authors: Raed Barhoum, Anton Nahhas
 
