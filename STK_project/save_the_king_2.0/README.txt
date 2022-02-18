@@ -2,7 +2,7 @@
 
 Final project guide (Save The King 2.0)
 ==============================================================================
-Authers: Raed Barhoum, Anton Nahhas
+Authors: Raed Barhoum, Anton Nahhas
 
 ..................................
 
