@@ -246,8 +246,8 @@ these sound are: S_ORC_KILLED, S_KEY_TAKEN, S_GATE_OPENED, S_FIRE_EXTINGUISHED,
 Other Notes:
 -----------
 	
-This project was the realization of the previous ex2 project into a real video game.
-differently to ex2, we learned much more things in quantity.
+This project was the realization of the previous Save The King project into a real video game.
+differently to the last version, we learned much more things in quantity.
 we implemented many things and many ideas and we understood how things flow while the code runs.
 we also discovered many things about the SFML library
 all in all we had a lot fun and laughs while working at the project, and we hope that we have 
