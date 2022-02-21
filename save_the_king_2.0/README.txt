@@ -224,7 +224,7 @@ holds all sound buffers loaded into the project
 Algorithms worth mentioning:
 ---------------------------
 
-gnomes' movment: they move in random direction by using the rand() function
+gnomes' movement: they move in random directions by using the rand() function
 
 
 ++++++++++++++++++++++++
@@ -233,10 +233,10 @@ gnomes' movment: they move in random direction by using the rand() function
 known bugs:
 ----------
 
-most of the sound effects added into the game do not play is specific places.
+most of the sound effects added into the game do not play in thier specific places.
 we have checked the correctness of the files and that they are loaded correctly.
 we tried to play them in other places and they do play, however not in the intended places.
-these sound are: S_ORC_KILLED, S_KEY_TAKEN, S_GATE_OPENED, S_FIRE_EXTINGUISHED,
+these sounds are: S_ORC_KILLED, S_KEY_TAKEN, S_GATE_OPENED, S_FIRE_EXTINGUISHED,
 	         S_PORTAL_ENTERDED, S_INC_TIME, S_DEC_TIME, S_DIS_GNOMES.
  
 
