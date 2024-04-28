@@ -1,1 +1,0 @@
-target_include_directories (level_editor PRIVATE ${CMAKE_CURRENT_LIST_DIR})
